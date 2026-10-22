@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1507559631 source:c:\users\vinti\desktop\torsor_incomplet\main.cpp
+	<conio.h>
+	<stdio.h>
+	<math.h>
+
+1509965099 source:c:\users\vinti\desktop\mecanica\torsor_complet\main.cpp
+	<conio.h>
+	<stdio.h>
+	<math.h>
+

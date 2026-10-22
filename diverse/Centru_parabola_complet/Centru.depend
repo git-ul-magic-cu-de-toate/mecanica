@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508757775 source:c:\users\vinti\desktop\centru_parabola_incomplet\main.cpp
+	<conio.h>
+	<stdio.h>
+	<math.h>
+
